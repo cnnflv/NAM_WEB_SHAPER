@@ -1,0 +1,43 @@
+NAM Web Shaper — Freeware License
+
+Copyright (c) 2026 Flavio Canonico. All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software ("NAM Web Shaper", the "Software") to use it, copy it and redistribute it,
+in its original and unmodified form, for personal, educational and commercial
+purposes, subject to the following conditions:
+
+1. The Software is provided free of charge. It may not be sold, rented or licensed
+   for a fee, nor bundled with products or services sold for a fee, without the prior
+   written permission of the copyright holder.
+
+2. The Software may be redistributed only in its entirety, including this license,
+   the NOTICE file and the copyright notices contained in the source. The copyright
+   notice, the author's name and the version information must not be removed or
+   altered.
+
+3. Modification of the Software, creation of derivative works and publication of
+   modified versions require the prior written permission of the copyright holder.
+   Configuration files, presets, model files (.nam, .json, .wav) created with the
+   Software belong to their respective authors and are not subject to this
+   restriction.
+
+4. Third-party components. The Software contains code derived from, and behaviour
+   modelled on, open-source projects released under the MIT License (Neural Amp
+   Modeler and NeuralAmpModelerCore by Steven Atkinson; the TONE3000 plugin and
+   neural-amp-modeler-wasm by TONE3000). Those components remain subject to their
+   own licenses, reproduced in the NOTICE file; nothing in this license limits the
+   rights granted by them for the original components.
+
+5. Trademarks. "Neural Amp Modeler", "NAM", "TONE3000", "BOSS", "GX-100" and all
+   other product or company names mentioned are trademarks of their respective
+   owners and are used for descriptive purposes only. This license grants no
+   trademark rights.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. Audio processing at high volume can
+damage hearing and equipment: use the Software at your own risk.

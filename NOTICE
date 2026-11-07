@@ -1,0 +1,40 @@
+NAM Web Shaper — third-party notices
+
+This software contains code derived from, and behaviour modelled on, the following
+open-source projects. Each is distributed under the MIT License reproduced below.
+
+1. NeuralAmpModelerCore — Copyright (c) 2022 Steven Atkinson
+   https://github.com/sdatkinson/NeuralAmpModelerCore
+   (WaveNet / A2 inference, "a2_fast" path, .nam loader and SlimmableContainer rules)
+
+2. Neural Amp Modeler (trainer) — Copyright (c) 2022 Steven Atkinson
+   https://github.com/sdatkinson/neural-amp-modeler
+   (.nam export format, model metadata conventions)
+
+3. TONE3000 plugin — Copyright (c) TONE3000
+   https://github.com/tone-3000/tone3000-plugin
+   (normalisation, input calibration, calibrated hand-off and impulse-response handling rules)
+
+4. neural-amp-modeler-wasm — Copyright (c) TONE3000
+   https://github.com/tone-3000/neural-amp-modeler-wasm
+   (example model "Marshall JCM800" distributed as esempio_marshall_jcm800_a2.nam)
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
