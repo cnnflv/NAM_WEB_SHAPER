@@ -6,7 +6,7 @@ NAM Web Shaper is a single self-contained HTML page. It runs entirely in the bro
 
 Interface languages: English (default), Italiano, Français, Español, 简体中文, 日本語 — selectable with the flag buttons at the top right.
 
-https://github.com/cnnflv/NAM_WEB_SHAPER
+https://cnnflv.github.io/NAM_WEB_SHAPER/
 
 ---
 
